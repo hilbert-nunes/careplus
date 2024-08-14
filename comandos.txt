@@ -1,0 +1,24 @@
+[cn]
+npm install clsx tailwind-merge
+
+[tailwind-plugin]
+npm install tailwindcss-animate
+
+[shadcn]
+npx shadcn-ui@latest init
+npm install next-themes (https://ui.shadcn.com/docs/dark-mode/next)
+
+[assets]
+public folder
+
+[forms]
+shadcn forms = react hook form + zod
+npx shadcn-ui@latest add form input
+
+npm install react-phone-number-input --save
+
+npm install node-appwrite
+
+databases > careplus_db > patient > permissions X X X X
+
+npm i react-datepicker
